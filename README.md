@@ -1,4 +1,4 @@
-# Securing-Cloud-Applications
+# Securing Cloud Applications
 
 **Technologies Used:** </br>
 Azure: {Keyvaults, App Services, WAF}, PHP, HTML, Docker, OpenSSL
